@@ -62,12 +62,6 @@ We used **ETL processes**, **EDA techniques**, and **visualizations** to extract
 ![Dashboard Screenshot 2](dashborad_screenshots/dashboard_ss_2.png)
 
 ---
-Yes! 🔥  
-We **should** add a little more to the **Insights** part — it will make your project look **deeper and more professional**. 📈
-
-The **current Insights** you have are good, but we can add **2–3 more points** based on typical EDA findings for Play Store datasets, like:
-
----
 
 
 
